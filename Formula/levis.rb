@@ -1,4 +1,3 @@
-
 class Levis < Formula
   desc Kubernetes Manifest Generator
   homepage "https://api.github.com/repos/naijab/levis"
@@ -11,4 +10,3 @@ class Levis < Formula
     bin.install "levis"
   end
 end
-
